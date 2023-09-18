@@ -1,2 +1,2 @@
-# Retro-Bowl
-This is a remake of it.
+Hello, This is apart of the Team Battle. 
+This is team red's project.
